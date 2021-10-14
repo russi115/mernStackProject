@@ -1,0 +1,5 @@
+node_modules
+.env
+src/app
+.babelrc
+.webpack.config.js
